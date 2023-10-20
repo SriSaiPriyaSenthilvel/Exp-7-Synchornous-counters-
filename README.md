@@ -69,6 +69,9 @@ endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+RTL LOGIC UP COUNTER:
+
+![image](https://github.com/SriSaiPriyaSenthilvel/Exp-7-Synchornous-counters-/assets/119475702/1d8f5dbd-b0b1-47e5-a755-12ce815b2ad9)
 
 
 
