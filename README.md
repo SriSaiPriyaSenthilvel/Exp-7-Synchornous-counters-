@@ -38,16 +38,22 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 step1
 Create a new project in QuartusII software.
+
 step2
 Name the project as uc for upcounter and dc for down counter.
+
 step3
 Create a new verilog hdl file in the project file.
+
 step4
 Name the module as dc and uc for down counter and up counter.
+
 step5
 Within the module declare input and output variables.
+
 step6
 Create a loop using if-else with condition parameter as reset value.
+
 step7
 End the loop and module
 
